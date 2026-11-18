@@ -1,14 +1,14 @@
 body {
-    background-color:chocolate;
-    color:black;
+    background-color:rgb(199, 96, 168);
+    color:lightsalmon;
     font-family:Arial, sans-serif;
     margin: 0;
 }
 
 header {
-    background-color: darkred;
-    color:darksalmon;
-    text-align:black;
+    background-color: rgb(240, 176, 59);
+    color:rgb(199, 96, 168);
+    text-align:rgb(203, 206, 49);
     padding: 30px;
 }
 
@@ -17,7 +17,7 @@ h1 {
 }
 
 h2{
-    color:brown
+    color:rgb(218, 144, 34)
 }
 
 p {
@@ -32,7 +32,7 @@ nav {
 nav a {
     color:rosybrown;
     text-decoration: none;
-    background-color: lightsalmon;
+    background-color:rgb(247, 247, 106);
     padding: 10px 15px;
     border-radius: 8px;
     margin: 5px;
@@ -40,7 +40,7 @@ nav a {
 }
 
 nav a:hover {
-    background-color: rgb(238, 84, 27);
+    background-color:lightsalmon;
 }
 
 main {
